@@ -1,41 +1,37 @@
-# Информация о себе
+# Information
 
-## Андрей Азаров
-#### 26 лет
+## Azarov Andrew
 
-## Контактная иформация
-1. Адрес: г. Киев
-2. e-mail: azarandr12@ukr.net
 
-## Работал
-1. Хозяйственный суд города Киева
-   - канцелярия (1 год)
-   - секретарь судебного заседаня (5 месяцев)
-2. Верховный Суд
-   - секретарь судебного заседаня (2 года 6 месяцев)
+## Contact
+1. Kiev
+2.  azarandr12@ukr.net
+3.  +380960633025
+4.  26 years old
 
-## Образование
+## Experience
+1. Economic court of Kiev
+   - leading specialist (2018-2019)
+  
+2. Supreme Court
+   - secretary of the court session (2019-till now)
 
-***Национальний юридический университет именя Ярослава Мудрого***
+## Education
 
-**правознавство**
+***Yaroslav the Wise National Law University***
 
-**Магист**
+**Law**
  
-  ## Знание языков
-- Русский - свободно
-- Украинский - свободно
-- Английский - средние знания
 
-## Дополнительная информация
-1. Профессиональные качества
-   - Умение раставлять приоритеты
-   - Эффективно и оперативно планировать свой рабочий день
-   - Умение систематизировать большой обьем информации
-   - Умение фокусировать усилия для достижения результата
-2. Личные качества
-   - Ответсвенность и целеустремленность
-   - Развиты социальные навыки
-   - Умение работать в команде
-   - Понимание ответственности и работы на результат
-   - Стремление к усовершенствованию и готовность учиться новому
+## Additional information
+1. Profissional quality
+   - Ability to prioritize
+   - Efficiently and efficiently plan your working day
+   - Ability to organize a large amount of information
+   - Ability to focus efforts to achieve results
+2. Personal qualities
+   - Responsibility and purposefulness
+   - Developed social skills
+   - Teamwork skills
+   - Understanding of responsibility and work for the result
+   - Passion for improvement and willingness to learn new things
